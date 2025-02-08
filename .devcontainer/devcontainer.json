@@ -1,0 +1,10 @@
+{
+    "name": "Mi Dev Container",
+    "image": "ubuntu:latest",
+    "remoteUser": "root",
+    "features": {},
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    }
+  }
+  
